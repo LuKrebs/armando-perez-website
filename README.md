@@ -6,4 +6,4 @@
 
 <p>This is a little preview image of what it looks like</p>
 
-<img src="https://github.com/LuKrebs/armando-perez-website/blob/master/img.png" />
+<img src="https://codepen.io/LuKrebs/full/ybymmy/" />
