@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  background: url("https://s3.amazonaws.com/codecademy-content/projects/armando-perez/brand.jpg") no-repeat center center fixed;
+  background: url("../img/brand.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
