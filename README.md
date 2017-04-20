@@ -6,4 +6,4 @@
 
 <p>This is a little preview image of what it looks like</p>
 
-<a href="https://codepen.io/LuKrebs/full/ybymmy/"><img src="img/armando-perez-website.png" /></a>
+<a href="https://codepen.io/LuKrebs/full/ybymmy/"><img src="img/armando-perez.png" /></a>
